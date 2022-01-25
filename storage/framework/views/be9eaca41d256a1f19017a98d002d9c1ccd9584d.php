@@ -1,0 +1,1 @@
+hello<?php /**PATH D:\xampp_latest_php\htdocs\email-app\resources\views/Email/EmailTemplate.blade.php ENDPATH**/ ?>
